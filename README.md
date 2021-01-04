@@ -5,7 +5,7 @@ Sample project to reproduce slow controller initialization with vanilla grails a
 run:
 ```
 ./gradlw assemble
- java -jar build/libs/grails4_summ_sick-0.1.war  
+ java -jar build/libs/grails4_summoning_sickness-0.1.war  
 
 visit: http://localhost:8080/test/index
 ```
